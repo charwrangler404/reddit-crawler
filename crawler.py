@@ -21,7 +21,7 @@ Your hallucinations are in your head, and are not a reflection of reality. Every
 person experiences hallucinations differently. They only have the power over you
 that you allow them. Hallucinations can be scary, but they cannot hurt you by
 themselves. Call your doctor and tell them about your hallucinations. Your doctor
-is the best equipped to handle *you*, as they have your medical history. If you
+is the best equipped to support *you*, as they have your medical history. If you
 are experiencing command hallucinations or your hallucinations are telling you
 to kill yourself, it may be time to go to the hospital.
 
@@ -46,8 +46,8 @@ of phone numbers for people you want to contact or visit you. You will likely ha
 access to a phone, but many hospitals will lock up your cell phone. If you have
 medications, bring the bottles with you. You may not have access to them, but
 it will give the doctors and nurses something to go off of. If you have recently
-changed medications, bring both the new and old perscriptions with you. Often
-psychiatric medications have a potential side effect of causing suicidal thoughts.
+changed medications, bring both the new and old prescriptions with you. Psychiatric
+medications sometimes have the potential side effect of causing suicidal thoughts.
 
 
 #So your crisis is over:
