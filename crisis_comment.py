@@ -81,13 +81,10 @@ def summon_search(subreddit):
 def main():
 
     ### Access variables defined
-    id = ''
-    agent = 'web:com.github.crisis_bot:0.0.1 (by /u/alkaloid_android)'
-    name = ''
-    pw = ''
+    agent = 'web:com.github.crisis_bot:0.1 (by /u/alkaloid_android)'
 
     ### Open session
-    reddit = praw.Reddit(client_id=id,client_secret=secret,user_agent=agent,username=name,password=pw)
+    reddit = praw.Reddit(Crisis_Bot, user_agent=agent)
 
     ### Define subreddit
     subreddit = reddit.subreddit('crisisbot')
